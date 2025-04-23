@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Love at Home",
+    "subtitle": "hymn arrangement solo",
+    "description": "My father passed away in 2023 after a long battle with COVID-19. Every time we held Family Home Evening, he would require us to sing this hymn, thinking it would perhaps dull the sibling rivalry a little. It didn't. I created this arrangement to sing at his funeral.",
+    "audio": "/assets/audio/love-at-home.mp3"
+  },
+  {
+    "title": "Abide with Me",
+    "subtitle": "hymn arrangement for solo",
+    "description": "I lost my younger sister to a battle with cancer in 2022. In pondering her passing it occurred to me that funerals are more for the living, than the dead. I created this arrangement to sing at her funeral to remind us who linger that we do have the Lord's hand in our lives, even in tragedy.",
+    "audio": "/assets/audio/abide-with-me.mp3"
+  },
+  {
+    "title": "Redeemer of Israel",
+    "subtitle": "hymn arrangement for large choir",
+    "description": "Not exactly sure where this one came from, but just that it came together very quickly. I wanted to explore an arrangement of this hymn for a large choir with a progressively more active accompaniment. This is the result.",
+    "audio": "/assets/audio/redeemer-of-israel.mp3"
+  },
+  {
+    "title": "Come, Feed by Sheep",
+    "subtitle": "hymn arrangement for choir",
+    "description": "This one was inspired by a conference talk about feeding the sheep. I wanted to create something with unexpected harmonies and an understated accommpaniment. I think I succeeded.",
+    "audio": "/assets/audio/come-feed-my-sheep.mp3"
+  },
+  {
+    "title": "Come, Ye Disconsolate",
+    "subtitle": "hymn arrangement for choir",
+    "description": "This is not the hymn you know. I would have preferred adapting Rob Gardner's version to SATB, but I asked and he said no. So, I wrote something completely different.",
+    "audio": "/assets/audio/come-ye-disconsolate.mp3"
+  },
+  {
+    "title": "Emmanual, Our King of Kings",
+    "subtitle": "original composition for choir and orchestra",
+    "description": "This original work follows differnt groups of people throughout history as they find their own way to worship Emmanuel. It starts with ancient Israel, then to Mary and Joseph, then to contemporaries of Jesus, then to generations up to the present, and finally ends with us.",
+    "audio": "/assets/audio/emmanuel-our-king-of-kings.mp3"
+  },
+  {
+    "title": "The Standard of Freedom",
+    "subtitle": "original composition for choir and orchestra",
+    "description": "This was started in 2020, during a time when I thought our nation was struggling with serious social conflicts. This was written to remind us of the principles on which our nation was founded. It borrows text from the Constitution, the Declaration of Independence, the Emancipation Proclamation, \"I Have a Dream\" by Martin Luther King, Jr., the New Colossus (the poem on the Statue of Liberty), and the Book of Mormon. It is a reminder that we are all in this together.",
+    "audio": "/assets/audio/the-standard-of-freedom.mp3"
+  },
+  {
+    "title": "The Restoration - Carthage",
+    "subtitle": "original composition for choir and orchestra",
+    "description": "This is movement 11 of a 12 movement work about the life of the Prophet Joseph Smith. This movement is about the martyrdom of Joseph and Hyrum Smith in Carthage Jail. If you listen to this one, please also listen to the next one \"The Restoration - Praise to the Man\" to get the full effect.",
+    "audio": "/assets/audio/carthage.mp3"
+  },
+  {
+    "title": "The Restoration - Praise to the Man",
+    "subtitle": "medley for choir and orchestra",
+    "description": "This the final movement of a 12 movement work about the life of the Prophet Joseph Smith. This movement represents the return to their Father's embrace of the Prophet Joseph Smith and his brother Hyrum. If you listen carefully, you'll hear four songs about the Prophet Joseph's life layered at the end.",
+    "audio": "/assets/audio/praise-to-the-man.mp3"
+  },
+  {
+    "title": "One Man",
+    "subtitle": "original composition for choir and orchestra",
+    "description": "I consider this my Magnum Opus. This work encompasees the events in the New Testament from the trial of Jesus to His resurrection. It is divided into vignettes, each representing something he said or did. It ends with a reminder that He lives and is the \"one man\" who can lead us back to our Father in Heaven.",
+    "audio": "/assets/audio/one-man.mp3"
+  }
+]

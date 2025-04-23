@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin: 0;
+  margin-bottom: 2rem;
+}
+
+p {
+  text-align: left;
+  margin: 1rem 0 1rem;
+}
+
+h3, h4 {
+  margin: 0;
+  text-align: left;;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+audio {
+  width: 100%;
+  margin-bottom: 1rem;
+}
